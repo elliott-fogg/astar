@@ -4,7 +4,7 @@
 #Enable diagonal movement and add in a corresponding travel weight
 #Create a program that will allow you to create maps and export them to a document
 #Import the exported maps into this program
-#Swap between adding and removing walls at will?
+
 #Create a graphical user interface that will allow map creation and target selection with the mouse
 #   and will also allow visual representation of map and path
 
