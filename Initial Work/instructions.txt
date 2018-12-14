@@ -1,0 +1,67 @@
+Instructions for Map Creator:
+
+Windows:
+	Menu 
+	Create New Map
+	Import Old Map
+	Map Creation
+	Export Map
+
+Links:
+	Menu -> Create New Map, Import Old Map
+	Create New Map -> Menu, Map Creation
+	Import Old Map -> Menu, Map Creation
+	Map Creation -> Menu, Export Map
+	Export Map -> Menu, Map Creation
+
+####
+Menu:
+	Title
+	Buttons that link to Create New Map and Import Old Map
+	Quit Button
+
+####
+Create New Map: 
+	Title
+	Input Box for Width and Height of new map
+	Input Box for name of New Map??? (Or should this go in Export Map?)
+	Button to confirm and go to Map Creation
+	Button to cancel and go to Menu
+
+####
+Import Old Map:
+	Title
+	Input Box for name of map to import
+	Display Box for names of available maps to import (Need some way of reading in filenames from the containing folder)
+	Button to confirm chosen map to import
+	Button to cancel and return to Menu
+
+####
+Map Creation:
+	Title
+	Display Grid of map, showing squares
+	Enable clicking a square to change its condition
+		Squares are a specific type of button, each linked to their corresponding grid coordinates.
+		Left click to add a wall
+		Right click to remove a wall
+		Click-and-Drag available?
+	Some way to change the terrain chosen on a click
+		A series of buttons down at the bottom?
+		An "Increase" and "Decrease" button, and a display showing the current terrain
+			A MAX terrain being an impassable wall - only allow terrain difficulty from 1 - 5, say?
+	Button to confirm and go to Export Map
+	Button to cancel and go to Menu
+	Button to cancel and go Back to previous screen (either New Map or Import Old Map) ?
+
+####
+Export Map:
+	Title
+	Input Box for name to export map as
+	Display Box to allow search for maps to overwrite?
+	Confirmation Box (pop-up) to confirm overwrite of existing map?
+	Way to check if saved map exists?
+	Means of exporting map
+	Button to confirm and export map
+	Button to cancel and go to Map Creation Screen
+	Button to cancel and go to Menu?
+	
