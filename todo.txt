@@ -1,0 +1,13 @@
+Recreate a the current map creator
+Add a square tool
+Add a fill tool
+
+Make the map scrollable
+Make an astar pather work on the maps
+Make a GUI interaction point for the A*
+Add pathing animations (ability to move a shape around the map)
+
+Add aiming lines
+Add raycasting
+Add the ability to shoot bullets
+Add in enemies and the ability to shoot them
